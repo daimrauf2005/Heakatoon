@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: #F5EBDC;
+     flex-wrap: wrap;
+}
+
+.main-logo{
+    margin-left: 11%;
+}
+
+.logo{
+    width: 5%;
+}
+
+.navbar-nav{
+    text-decoration: none;
+    grid-template-rows: auto;
+    gap: 15px;
+}
+
+.nav-item1 a{
+    color:white;
+    background-color: #D62300;
+    border-radius: 22px;
+}
+
+.nav-item2 a{
+    color:white;
+    background-color:#502314;
+    border-radius: 22px; 
+    
+}
+
+.image2{
+    width: 50%;
+    height: 600px;
+    margin-left: 44%;
+}
+
+h1{
+    
+}
